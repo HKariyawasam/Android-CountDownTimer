@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CountDownTimer</string>
+    <string name="startBtn">START</string>
+    <string name="StopBtn">STOP</string>
+    <string name="col1">Col1</string>
+    <string name="col3">Col3</string>
+    <string name="col2">Col2</string>
+    <string name="row3">sur</string>
+    <string name="row2">sur2</string>
+    <string name="row1">sur3</string>
+    <string name="Nutrition">Nutrition</string>
+    <string name="Supplement">Supplement</string>
+    <string name="WorkOuts">WorkOut</string>
+</resources>
